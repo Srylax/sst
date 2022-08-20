@@ -9,5 +9,5 @@ sst is a simple terminal emulator for X which sucks less.
 + desktopentry 0.8.5
 + ligatures alpha scrollback
 + scrollback mouse 2022 01 27
-+ scrollback ringbuffer 0.8.5
++ scrollback 0.8.5
 + alpha 0.8.5
